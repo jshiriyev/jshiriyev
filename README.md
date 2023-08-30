@@ -2,7 +2,7 @@
 
 🌍 A Geoscientist and Reservoir Engineer with a passion for modeling the subsurface world. 
 
-💼 Currently working on borehole-reservoir modeling, and petrophysics-production data analysis.
+💼 Currently working on petrophysics & production data analysis and borehole & reservoir modeling.
 
 🚀 Always exploring new ways to optimize oil and gas production through data-driven insights and cutting-edge technology.
 
