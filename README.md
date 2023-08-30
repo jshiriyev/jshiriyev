@@ -1,8 +1,8 @@
-👋 Hello, I'm Javid Shiriyev
+👋 Hello, I'm Javid Shiriyev.
 
-🧪 A Geoscientist and Reservoir Engineer with a passion for modeling the subsurface world. 🌍
+🌍 A Geoscientist and Reservoir Engineer with a passion for modeling the subsurface world. 
 
-💼 Currently working on borehole-reservoir modeling, and petrophysical-production data analysis.
+💼 Currently working on borehole-reservoir modeling, and petrophysics-production data analysis.
 
 🚀 Always exploring new ways to optimize oil and gas production through data-driven insights and cutting-edge technology.
 
