@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 Hello, I'm Javid Shiriyev
 
-<!--
-**jshiriyev/jshiriyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪 A Geoscientist and Reservoir Engineer with a passion for modeling the subsurface world. 🌍
 
-Here are some ideas to get you started:
+💼 Currently working on borehole-reservoir modeling, and petrophysical-production data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Always exploring new ways to optimize oil and gas production through data-driven insights and cutting-edge technology.
+
+🌐 Let's collaborate and innovate together! Connect with me to explore the depths of the Earth's resources.
+
+📚 Check out my repositories for projects in reservoir engineering, geospatial analysis, and more!
+
+📫 Reach out to me at shiriyevcavid@gmail.com or connect on LinkedIn [[Your LinkedIn Profile URL].
+](https://www.linkedin.com/in/jshiriyev/)https://www.linkedin.com/in/jshiriyev/
