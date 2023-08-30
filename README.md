@@ -10,5 +10,4 @@
 
 📚 Check out my repositories for projects in reservoir engineering, geospatial analysis, and more!
 
-📫 Reach out to me at shiriyevcavid@gmail.com or connect on LinkedIn [[Your LinkedIn Profile URL].
-](https://www.linkedin.com/in/jshiriyev/)https://www.linkedin.com/in/jshiriyev/
+📫 Reach out to me at shiriyevcavid@gmail.com or connect on LinkedIn https://www.linkedin.com/in/jshiriyev/.
