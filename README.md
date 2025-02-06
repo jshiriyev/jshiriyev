@@ -15,7 +15,7 @@ My work focuses on both theoretical advancements and practical solutions in the 
 I organize my repositories into three main groups:
 
 1. **Study Packages** 📖
-   - Notebooks designed for self-practice in **Python, numerical analysis, statistics, and machine learning**.
+   - Notebooks designed for self-practice in **Python, Numerical Analysis (Modeling), Statistics, and Machine Learning**.
 
 2. **Main Packages** 🛠️
    - Developments addressing critical **oil and gas industry challenges**, including:
