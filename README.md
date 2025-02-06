@@ -19,11 +19,11 @@ I organize my repositories into three main groups:
 
 2. **Main Packages** 🛠️
    - Developments addressing critical **oil and gas industry challenges**, including:
-     - Formation Evaluation
-     - Reservoir Characterization
-     - Reservoir Simulation
-     - Performance (Nodal) Analysis
-     - Production Forecasting
+     - Formation Evaluation (main-pphys)
+     - Reservoir Characterization (main-geom)
+     - Reservoir Simulation (main-respy)
+     - Performance (Nodal) Analysis (main-nodepy)
+     - Production Forecasting (main-prodpy)
 
 3. **Stream Packages** 🌐
    - Interfaces built on **main packages** that facilitate **easy presentation and interpretation of results**.
