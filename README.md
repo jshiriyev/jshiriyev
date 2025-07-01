@@ -2,7 +2,7 @@
 
 A professional engaged at the intersection of industry and academia, currently serving as a **Field Development Lead at SOCAR Upstream** while also teaching at **Baku Higher Oil School**. 
 
-My work focuses on practical solutions in the oil and gas industry. I develop methodologies, tools, and workflows that help enhance reservoir management, production forecasting, and formation evaluation. My academic contributions include courses on:
+My work focuses on practical solutions in the oil and gas industry. I develop methodologies, tools, and workflows to maximize upstream performance in the oil and gas industry. My academic contributions include courses on:
 
 - **Formation Evaluation**
 - **Advanced Fluid Mechanics and Modeling**
@@ -14,20 +14,21 @@ My work focuses on practical solutions in the oil and gas industry. I develop me
 I organize my repositories into three main groups:
 
 1. **Study Packages** 📖
-   - Notebooks designed for self-practice in **Python, Numerical Analysis (Modeling), Statistics, and Machine Learning**.
+   - Notebooks designed for self-practice in **Python Programming, Numerical Analysis (Modeling), Statistics & Probability, and Machine Learning Algorithms**.
 
 2. **Main Packages** 🛠️
    - Developments addressing critical **oil and gas industry challenges**, including:
-     - Formation Evaluation (main-pphys)
-     - Borehole Modeling (main-borepy)
-     - Well Performance Analysis (main-nodepy)
-     - Reservoir Characterization (main-geom)
-     - Material Balance Calculations (main-pormed)
-     - Reservoir Simulation (main-respy)
-     - Production Forecasting (main-prodpy)
+     - Formation Evaluation
+     - Geostatistical Modeling
+     - Reservoir Properties
+     - Pressure Transient Analysis
+     - Nodal Analysis
+     - Material Balance Calculations
+     - Reservoir Simulation
+     - Data Driven Forecasting
 
 3. **Stream Packages** 🌐
-   - Interfaces built on **main packages** that facilitate **easy presentation and interpretation of results**.
+   - Well Data Streaming: Dashboard built on **main packages** that facilitate **easy presentation and interpretation of results**.
 
 ## 📫 Get in Touch
 
