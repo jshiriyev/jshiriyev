@@ -1,6 +1,6 @@
 # jshiriyev
  
-A focused ecosystem of reservoir-engineering tools for **production data analysis**, **formation evaluation**, and **field-facing web delivery**.
+A focused ecosystem of reservoir-engineering tools for **production data analysis**, **formation evaluation**, and **field-data web delivery**.
  
 ## Vision
  
