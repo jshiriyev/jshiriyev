@@ -73,9 +73,11 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=YvggY5wAAA
 ## GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jshiriyev&show_icons=true&count_private=true&hide_border=true" alt="Javid's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshiriyev&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="profile/stats.svg" alt="Javid's GitHub stats" align="top" />
+  <img src="profile/top-langs.svg" alt="Most used languages" align="top" />
 </p>
+
+<sub>Cards are rebuilt daily by <a href=".github/workflows/stats-cards.yml">a GitHub Action</a> from public repository data.</sub>
 
 ## 📫 Get in touch
 
