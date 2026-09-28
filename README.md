@@ -1,6 +1,6 @@
 # Hi, I'm Javid Shiriyev 👋
 
-**Engineer building data, simulation & AI systems — Ph.D. (UT Austin), 10+ years of Python, energy domain.**
+**Engineer building data, simulation & AI systems - Ph.D. (UT Austin), 10+ years of Python, energy domain.**
 
 I've spent fifteen years building the models, data systems, and now AI pipelines that turn subsurface measurements into decisions. Across every role, the real deliverable has been software: inversion code in my Ph.D., a mesh-free solver in my postdoc, a well-data platform backend at a national oil company, and now production LLM-agent pipelines.
 
