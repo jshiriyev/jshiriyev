@@ -31,9 +31,9 @@ I've spent fifteen years building the models, data systems, and now AI pipelines
 
 ## Background
 
-- **Ph.D., Petroleum Engineering — The University of Texas at Austin** (advisor: Mukul Sharma). Built the forward electromagnetic simulators and the simulated-annealing inversion for a DOE-funded fracture-diagnostics tool.
+- **Ph.D., Petroleum Engineering - The University of Texas at Austin** (advisor: Mukul Sharma). Built the forward electromagnetic simulators and the simulated-annealing inversion for a DOE-funded fracture-diagnostics tool.
 - **Postdoc, UT Austin.** Boundary-element / integral-equation solver as a fast, mesh-free alternative to FEM/FDM for real-time flow modeling.
-- **SOCAR Upstream — Field Development Lead & Data Management.** Wrote the entire backend of a Vue/FastAPI/PostgreSQL well-data platform used by 50+ engineers, and built dashboards that 80% of the reservoir team adopted.
+- **SOCAR Upstream - Field Development Lead & Data Management.** Wrote the entire backend of a Vue/FastAPI/PostgreSQL well-data platform used by 50+ engineers, and built dashboards that 80% of the reservoir team adopted.
 - **Six years teaching** reservoir simulation and petrophysics (Baku Higher Oil School, METU NCC). Supervised 50+ theses.
 - **B.Sc. & M.Sc., Middle East Technical University.** Ranked first in the department.
 
