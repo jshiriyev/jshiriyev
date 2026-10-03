@@ -21,7 +21,7 @@
   <text class="label" x="20" y="87">Stars earned</text>
   <text class="value" x="330" y="87" text-anchor="end">13</text>
   <text class="label" x="20" y="112">Commits (last year)</text>
-  <text class="value" x="330" y="112" text-anchor="end">119</text>
+  <text class="value" x="330" y="112" text-anchor="end">139</text>
   <text class="label" x="20" y="137">Pull requests (last year)</text>
   <text class="value" x="330" y="137" text-anchor="end">3</text>
   <text class="label" x="20" y="162">Issues (last year)</text>
