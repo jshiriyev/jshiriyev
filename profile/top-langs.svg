@@ -17,8 +17,8 @@
   <rect class="bg" x="0.5" y="0.5" rx="6" width="349" height="153"/>
   <text class="title" x="20" y="32">Most Used Languages</text>
   <rect class="track" x="20" y="48" rx="4" width="310" height="8"/>
-  <rect x="20.00" y="48" width="173.33" height="8" fill="#999999"/>
-  <rect x="193.33" y="48" width="64.39" height="8" fill="#3572A5"/>
+  <rect x="20.00" y="48" width="173.32" height="8" fill="#999999"/>
+  <rect x="193.32" y="48" width="64.40" height="8" fill="#3572A5"/>
   <rect x="257.72" y="48" width="50.11" height="8" fill="#e34c26"/>
   <rect x="307.83" y="48" width="14.23" height="8" fill="#f1e05a"/>
   <rect x="322.06" y="48" width="4.05" height="8" fill="#663399"/>

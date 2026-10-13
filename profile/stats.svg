@@ -17,13 +17,13 @@
   <rect class="bg" x="0.5" y="0.5" rx="6" width="349" height="211"/>
   <text class="title" x="20" y="32">GitHub Stats</text>
   <text class="label" x="20" y="62">Public repositories</text>
-  <text class="value" x="330" y="62" text-anchor="end">7</text>
+  <text class="value" x="330" y="62" text-anchor="end">8</text>
   <text class="label" x="20" y="87">Stars earned</text>
   <text class="value" x="330" y="87" text-anchor="end">13</text>
   <text class="label" x="20" y="112">Commits (last year)</text>
-  <text class="value" x="330" y="112" text-anchor="end">131</text>
+  <text class="value" x="330" y="112" text-anchor="end">145</text>
   <text class="label" x="20" y="137">Pull requests (last year)</text>
-  <text class="value" x="330" y="137" text-anchor="end">3</text>
+  <text class="value" x="330" y="137" text-anchor="end">5</text>
   <text class="label" x="20" y="162">Issues (last year)</text>
   <text class="value" x="330" y="162" text-anchor="end">0</text>
   <text class="label" x="20" y="187">Contributed to (last year)</text>
