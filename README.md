@@ -15,9 +15,9 @@ I've spent fifteen years building the models, data systems, and now AI pipelines
   - deterministic SQL conflict resolution (no LLM in the tie-break)
   - geometry validation and staged human sign-off
 
-  It has been validated on ~500 wells.
-- 🔗 **Acquisition deal-integration pipeline.** A quarterly Python pipeline that drives a reserves-software REST API end to end: entity resolution against PostgreSQL, an identifier crosswalk, and automated underwriting-vs-booked reconciliation.
-- 🗄️ **Sand-Control Failure Database** *(private)*. Sole data engineer for a UT Austin research consortium: schema design, ingestion, and query system, with data contributed by 10 major operators.
+  It is in use on live acquisitions, validated on ~500 wells.
+- 🔗 **Acquisition-integration pipeline.** A Python pipeline on a reserves-software REST API: reconciliation against PostgreSQL and an identifier crosswalk between two numbering authorities.
+- 🗄️ **Sand-Control Failure Database** *(private)*. Leading the rebuild for a UT Austin research consortium: schema design, ingestion and query system, with data from 10 major operators; managing a Ph.D. student contributor and reviewing their pull requests.
 - 📚 **[Data Science Guide](https://jshiriyev.github.io/data-science-guide/).** A cheat-sheet site covering statistics, Python, ML, big data and deep learning, with one new sheet each week.
 
 ## Featured projects
@@ -33,7 +33,7 @@ I've spent fifteen years building the models, data systems, and now AI pipelines
 
 - **Ph.D., Petroleum Engineering - The University of Texas at Austin** (advisor: Mukul Sharma). Built the forward electromagnetic simulators and the simulated-annealing inversion for a DOE-funded fracture-diagnostics tool.
 - **Postdoc, UT Austin.** Boundary-element / integral-equation solver as a fast, mesh-free alternative to FEM/FDM for real-time flow modeling.
-- **SOCAR Upstream - Field Development Lead & Data Management.** Wrote the entire backend of a Vue/FastAPI/PostgreSQL well-data platform used by 50+ engineers, and built dashboards that 80% of the reservoir team adopted.
+- **SOCAR Upstream - Field Development Lead & Data Management.** Wrote the entire backend of a Vue/FastAPI/PostgreSQL well-data platform used by 50+ engineers, and built dashboards that about 80% of the reservoir team adopted.
 - **Six years teaching** reservoir simulation and petrophysics (Baku Higher Oil School, METU NCC). Supervised 50+ theses.
 - **B.Sc. & M.Sc., Middle East Technical University.** Ranked first in the department.
 
